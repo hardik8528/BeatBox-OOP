@@ -6,6 +6,8 @@ body{
   flex-wrap: wrap;
   width: 100%;
   height: 100vh;
+  background-image: url(./Audio\ And\ Background/background.jpeg);
+  background-size: cover;
 }
 
 .BeatBox{
